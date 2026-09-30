@@ -1,0 +1,1 @@
+Developed an object-oriented Banking Information System in Java simulating core operations such as account management, balance inquiries, deposit processing, and withdrawal validation. Built using encapsulation principles to ensure data privacy and prevent invalid transactions.
